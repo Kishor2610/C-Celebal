@@ -1,7 +1,7 @@
 using System;
 class P4
 {
-    static void Main()
+    public static void Main(string[] args)
     {
         int intValue = 10; 
         double doubleValue = 3.14159; 

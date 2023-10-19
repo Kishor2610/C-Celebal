@@ -1,8 +1,8 @@
 using System;
 
-class Program
+class Program5
 {
-    static void Main()
+    public static void Main(string[] args)
     {
         string f1 = "Frank";
         string f2 = "Alice";

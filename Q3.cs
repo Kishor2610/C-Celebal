@@ -1,8 +1,8 @@
 using System;
 
-class Program
+class Program3
 {
-    static void Main()
+    public static void Main(string[] args)
     {
         Console.Write("Enter a string here: ");
         string inputString = Console.ReadLine();

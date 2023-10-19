@@ -1,8 +1,8 @@
 using System;
 
-class Program
+class Program6
 {
-    public static void Main()
+    public static void Main(string[] args)
     {
         string defaultString = "hey there !";
         
