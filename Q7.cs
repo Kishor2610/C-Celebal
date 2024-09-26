@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    public static void Main()
+    public static void Main(string[] args)
     {
         int numberToCheck = 7; 
         Check(numberToCheck);

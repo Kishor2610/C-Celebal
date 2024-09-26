@@ -1,7 +1,7 @@
 using System;
-class Program
+class Program2
 {
-        static void Main()
+    public static void Main(string[] args)
     {
         string inputString;
 

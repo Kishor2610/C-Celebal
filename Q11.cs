@@ -5,7 +5,7 @@ class Program
     static int highscore = 0;
     static string highscorePlayer = "";
 
-    static void Main()
+    public static void Main(string[] args)
     {
         highscore = 1000;
         highscorePlayer = "John";
